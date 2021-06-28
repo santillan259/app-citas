@@ -1,0 +1,5 @@
+.quotes-box{
+    margin: 100vh;
+    display: flex;
+    -ms-flex-align: center;
+}
